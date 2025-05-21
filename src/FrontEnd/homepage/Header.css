@@ -1,0 +1,18 @@
+.header {
+    background-color: forestgreen;
+    padding: 10px 20px; /* Fixed the space in "20 px" */
+    color: floralwhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: wheat;
+    text-decoration: none;
+}
